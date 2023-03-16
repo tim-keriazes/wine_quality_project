@@ -1,0 +1,1 @@
+This folder shouldn't be touched manually.  This is the directory in which the cached data will be stored.
